@@ -1,7 +1,7 @@
 jscssminify
 ===========
 
-need Apache Ant��
+需要配合 Ant 使用：
 
 <taskdef name="JsMinifyTask" classname="net.sf.yuzx.minify.ant.JsMinifyTask" classpathref="ant.classpath" />
 <taskdef name="CssMinifyTask" classname="net.sf.yuzx.minify.ant.CssMinifyTask" classpathref="ant.classpath" />
